@@ -1,7 +1,5 @@
-<marquee>
 <?php
 phpinfo();
 ?>
-</marquee>
 
 
