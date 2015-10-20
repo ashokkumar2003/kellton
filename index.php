@@ -1,6 +1,4 @@
-<marquee>
 <?php
 phpinfo();
 ?>
-</marquee>
 
