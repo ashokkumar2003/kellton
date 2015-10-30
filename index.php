@@ -1,5 +1,6 @@
 <?php
 phpinfo();
-This is Ashok Kkumar
 ?>
+
+echo "hostname"
 
