@@ -2,5 +2,5 @@
 phpinfo();
 ?>
 
-echo "hostname"
+#echo "hostname"
 
