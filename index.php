@@ -2,6 +2,4 @@
 phpinfo();
 ?>
 
-#KellTech
-#echo "hostname"
 
