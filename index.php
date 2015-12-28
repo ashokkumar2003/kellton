@@ -2,6 +2,6 @@
 phpinfo();
 ?>
 Thanks
-Best of luch
+The Best of luch
 echo "best of luck"
 
