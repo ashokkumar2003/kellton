@@ -3,5 +3,5 @@ phpinfo();
 ?>
 
 Thanks
-echo "best"
+echo "best of luck"
 
