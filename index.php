@@ -2,5 +2,6 @@
 phpinfo();
 ?>
 
+Thanks
 echo "best"
 
